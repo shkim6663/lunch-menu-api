@@ -1,0 +1,91 @@
+{
+  "lunch-menu": [
+    {
+      "id": "1",
+      "name": "김치찌개",
+      "category": "한식",
+      "price": 8000,
+      "spicyLevel": 3,
+      "mood": [
+        "행복",
+        "피곤"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "불고기",
+      "category": "한식",
+      "price": 12000,
+      "spicyLevel": 1,
+      "mood": [
+        "행복",
+        "신남"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "짜장면",
+      "category": "중식",
+      "price": 7000,
+      "spicyLevel": 1,
+      "mood": [
+        "슬픔",
+        "피곤"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "짬뽕",
+      "category": "중식",
+      "price": 9000,
+      "spicyLevel": 3,
+      "mood": [
+        "신남",
+        "행복"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "스시",
+      "category": "일식",
+      "price": 15000,
+      "spicyLevel": 0,
+      "mood": [
+        "행복",
+        "신남"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "파스타",
+      "category": "양식",
+      "price": 13000,
+      "spicyLevel": 1,
+      "mood": [
+        "행복",
+        "신남"
+      ]
+    },
+    {
+      "id": "3ffe",
+      "name": "순두부찌개",
+      "category": "한식",
+      "price": 12000,
+      "spicyLevel": 2,
+      "mood": [
+        "신남",
+        "행복"
+      ]
+    },
+    {
+      "id": "9072",
+      "name": "부대찌개",
+      "category": "한식",
+      "price": 11000,
+      "spicyLevel": 3,
+      "mood": [
+        "신남"
+      ]
+    }
+  ]
+}
